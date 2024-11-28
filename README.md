@@ -21,7 +21,7 @@ You can install the required dependencies using the following command:
 ## How to use
 
 1. Clone this repository to your local machine:
-- code: git clone https://github.com/username/repository_name.git
+- code: git clone https://github.com/AsuquoAA/Big_4_Sports_Teams_and_City_Population_Analysis-2018-.git
 
 2. Navigate to the folder where you have cloned the repo:
 - code: cd repository_name
@@ -44,11 +44,11 @@ The primary questions this analysis aims to answer are:
 ## Datasets
 
 The datasets used in this project are:
-1. <a href="https://github.com/Lazycodes/Big_4_Sports_Teams_and_City_Population_Analysis-2018-/blob/main/nfl.csv">NFL.csv</a>
-2. <a href="https://github.com/Lazycodes/Big_4_Sports_Teams_and_City_Population_Analysis-2018-/blob/main/nba.csv">NBA.csv</a>
-3. <a href="https://github.com/Lazycodes/Big_4_Sports_Teams_and_City_Population_Analysis-2018-/blob/main/mlb.csv">MLB.csv</a>
-4. <a href="https://github.com/Lazycodes/Big_4_Sports_Teams_and_City_Population_Analysis-2018-/blob/main/nhl.csv">NHL.csv</a>
-5. <a href="https://github.com/Lazycodes/Big_4_Sports_Teams_and_City_Population_Analysis-2018-/blob/main/wikipedia_data.html">html file</a>
+1. <a href="https://github.com/AsuquoAA/Big_4_Sports_Teams_and_City_Population_Analysis-2018-/blob/main/nfl.csv">NFL.csv</a>
+2. <a href="https://github.com/AsuquoAA/Big_4_Sports_Teams_and_City_Population_Analysis-2018-/blob/main/nba.csv">NBA.csv</a>
+3. <a href="https://github.com/AsuquoAA/Big_4_Sports_Teams_and_City_Population_Analysis-2018-/blob/main/mlb.csv">MLB.csv</a>
+4. <a href="https://github.com/AsuquoAA/Big_4_Sports_Teams_and_City_Population_Analysis-2018-/blob/main/nhl.csv">NHL.csv</a>
+5. <a href="https://github.com/AsuquoAA/Big_4_Sports_Teams_and_City_Population_Analysis-2018-/blob/main/wikipedia_data.html">html file</a>
 
 ---
 
@@ -74,9 +74,3 @@ The process for this analysis includes the following steps:
 
 ## Acknowledgements:
 This project is part of the Applied Data Science with Python Specialization from the University of Michigan. I would like to thank the university and the instructors for providing such valuable resources that helped me build and enhance my data science and Python skills throughout this project.
-
-
-
-
-
-
